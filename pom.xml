@@ -7,14 +7,6 @@
     <groupId>com.github.km127pl</groupId>
     <artifactId>KPromise</artifactId>
     <version>0.0.1-ALPHA</version>
-    <dependencies>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>[6.11]</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
