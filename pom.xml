@@ -16,9 +16,9 @@
 
     <distributionManagement>
         <repository>
-            <id>kpromise</id>
+            <id>kpromises</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/KM127PL/KPromise</url>
+            <url>https://maven.pkg.github.com/km127pl/kpromises</url>
         </repository>
     </distributionManagement>
 
